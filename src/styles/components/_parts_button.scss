@@ -1,0 +1,19 @@
+// buttons
+
+
+
+// Grid 버튼
+.grid__btn {
+    border:1px solid blue;
+    text-align: center;
+
+    
+    // 행삭제
+    &--rowDelete {
+        content:"삭제"        
+    }
+    // 행복사
+    &--rowCopy {
+        content:"복사"        
+    }
+}

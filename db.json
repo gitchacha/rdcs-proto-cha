@@ -1,0 +1,79 @@
+{
+  "trigger": [
+    {
+      "triggerId": "aaaa",
+      "carType": "rg1",
+      "createdTime": "201908011240",
+      "info": {
+        "condition": {},
+        "expression": {},
+        "key": "key",
+        "operator": "!=",
+        "value": 66666,
+        "pvalue": 88888,
+        "duration": 99999,
+        "logic1": "OR",
+        "logic2": "AND",
+        "createdTime": "201908011240"
+      },
+      "id": 1
+    },
+    {
+      "triggerId": "bbbb",
+      "carType": "rg2",
+      "createdTime": "201908011240",
+      "info": {
+        "condition": {},
+        "expression": {},
+        "key": "key",
+        "operator": "!=",
+        "value": 66666,
+        "pvalue": 88888,
+        "duration": 99999,
+        "logic1": "OR",
+        "logic2": "AND",
+        "createdTime": "201908011240"
+      },
+      "id": 2
+    },
+    {
+      "carType": "rg10",
+      "id": 3
+    },
+    {
+        "triggerId": "ffff",
+        "carType": "rg3",
+        "createdTime": "201908011240",
+        "info": {
+          "condition": {},
+          "expression": {},
+          "key": "key",
+          "operator": "!=",
+          "value": 66666,
+          "pvalue": 88888,
+          "duration": 99999,
+          "logic1": "OR",
+          "logic2": "AND",
+          "createdTime": "201908011240"
+        },
+        "id": 4
+    },
+    {
+        "triggerId": "ggg",
+        "carType": "rg1",
+        "info": {
+          "condition": {},
+          "expression": {},
+          "key": "key",
+          "operator": "!=",
+          "value": 66666,
+          "pvalue": 88888,
+          "duration": 99999,
+          "logic1": "OR",
+          "logic2": "AND",
+          "createdTime": "201908011240"
+        },
+        "id": 5
+    }
+  ]
+}

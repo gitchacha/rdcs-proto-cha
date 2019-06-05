@@ -1,0 +1,9 @@
+{
+    "/rdcs/:carType/trigger": "/trigger?carType=:carType",
+    "/rdcs/:carType/trigger/:triggerId": "/trigger?triggerId=:triggerId",
+
+
+    "/api/*": "/$1",
+    "/:resource/:id/show": "/:resource/:id",
+    "/articles\\?id=:id": "/posts/:id"
+}
