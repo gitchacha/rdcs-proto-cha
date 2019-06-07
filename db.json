@@ -1,7 +1,7 @@
 {
   "trigger": [
     {
-      "triggerId": "aaaa",
+      "triggerId": "550e8400-e29b-41d4-a716-446655440000",
       "carType": "rg1",
       "createdTime": "201908011240",
       "info": {
@@ -19,7 +19,7 @@
       "id": 1
     },
     {
-      "triggerId": "bbbb",
+      "triggerId": "550e8400-e29b-41d4-a716-446655440001",
       "carType": "rg2",
       "createdTime": "201908011240",
       "info": {
@@ -37,11 +37,25 @@
       "id": 2
     },
     {
-      "carType": "rg10",
+      "triggerId": "550e8400-e29b-41d4-a716-446655440002",
+      "carType": "rg2",
+      "createdTime": "201908011240",
+      "info": {
+        "condition": {},
+        "expression": {},
+        "key": "key",
+        "operator": "!=",
+        "value": 66666,
+        "pvalue": 88888,
+        "duration": 99999,
+        "logic1": "OR",
+        "logic2": "AND",
+        "createdTime": "201908011240"
+      },
       "id": 3
     },
     {
-        "triggerId": "ffff",
+        "triggerId": "550e8400-e29b-41d4-a716-446655440003",
         "carType": "rg3",
         "createdTime": "201908011240",
         "info": {
@@ -59,7 +73,7 @@
         "id": 4
     },
     {
-        "triggerId": "ggg",
+        "triggerId": "550e8400-e29b-41d4-a716-446655440004",
         "carType": "rg1",
         "info": {
           "condition": {},
